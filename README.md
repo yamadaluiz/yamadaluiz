@@ -1,11 +1,6 @@
 # Olá a todod!
 <html>
 <head>
-<style>
-    body {
-        background-color: red;
-    }
-</style>
 </head>
 <body>
 <ul>
